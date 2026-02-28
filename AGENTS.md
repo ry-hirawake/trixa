@@ -116,3 +116,6 @@ Claudeに渡すべきもの:
 ## 言語プロトコル
 - **思考**: 英語
 - **ユーザー対話・SSOTアウトプット**: 日本語
+
+## Readyゲート（追加）
+- Story/ADRが `.trixa/PROJECT_TECH_RULES.md` と矛盾しない（Compose/MVVM禁止 等）

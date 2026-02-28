@@ -9,6 +9,7 @@
 
 ## Core Rules
 - Constitution: ./SSOT_CONSTITUTION.md
+- Project Tech Rules: ./PROJECT_TECH_RULES.md
 - Roles/Authority (DRI): ./ROLES_AND_AUTHORITY.md
 - Story Protocol (SDD/BDD/TDD): ./STORY_PROTOCOL.md
 
