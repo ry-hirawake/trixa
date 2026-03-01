@@ -119,3 +119,7 @@ Claudeに渡すべきもの:
 
 ## Readyゲート（追加）
 - Story/ADRが `.trixa/PROJECT_TECH_RULES.md` と矛盾しない（Compose/MVVM禁止 等）
+
+## Status運用（ユーザー承認制）
+- Story/ADR/Requirements の `Status` はユーザー承認後にのみ変更する。
+- Codexは `Status変更提案` を出すが、SSOT上のStatusは変更しない。

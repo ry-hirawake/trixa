@@ -1,4 +1,4 @@
-# PROJECT_TECH_RULES.md（穴埋めテンプレ / 汎用ミニマム版）
+# Project Tech Rules
 
 ## Status
 Draft | Accepted（←どちらか）
